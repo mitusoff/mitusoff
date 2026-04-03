@@ -25,8 +25,8 @@ class Developer:
     def __init__(self):
         self.name = "Mitusov Oleg"
         self.role = "Embedded Developer"
-        self.stack = ["Python", "C++", "YAML", "ESPHome", "Home Assistant"]
-        self.location = "Россия"
+        self.stack = ["Python", "C#", "Web",  "YAML", "ESPHome", "Home Assistant"]
+        self.location = "Russia"
     
     def say_hi(self):
         print("Привет! Добро пожаловать в мой профиль 👋")
